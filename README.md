@@ -1,6 +1,8 @@
 
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8ba6366a-1299-4885-80a6-2ad5108ffd47)
+
+
 
 # 🧬 Optimizing Skin Cancer Detection with RCNN Model
 
