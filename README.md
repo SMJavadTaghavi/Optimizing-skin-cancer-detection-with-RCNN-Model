@@ -1,16 +1,9 @@
 
-
-![image](https://github.com/user-attachments/assets/8ba6366a-1299-4885-80a6-2ad5108ffd47)
-
-
-
 # 🧬 Optimizing Skin Cancer Detection with RCNN Model
 
 ### A Deep Learning Approach for Early and Accurate Skin Lesion Classification
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Skin_Cancer_Classification.jpg/800px-Skin_Cancer_Classification.jpg" width="70%" />
-</div>
+![image](https://github.com/user-attachments/assets/8ba6366a-1299-4885-80a6-2ad5108ffd47)
 
 ## 🔍 Introduction
 
